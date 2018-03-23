@@ -1,0 +1,1 @@
+web: bin/jekyll serve --baseurl '' --watch
