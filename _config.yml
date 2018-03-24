@@ -1,4 +1,4 @@
-permalink: /writings/:year/:month/:day/:title
+permalink: /writing/:year/:month/:day/:title
 markdown: kramdown
 plugins:
   - jekyll-org
