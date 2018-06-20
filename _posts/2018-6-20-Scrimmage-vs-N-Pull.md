@@ -1,5 +1,7 @@
-Scrimmage vs. N-Pull
-====================
+---
+layout: post
+title: Scrimmage vs. N-Pull
+---
 
 For at least the first half of the season, a team should only scrimmage in rare instances and for very short periods of time. The problem with scrimmaging is that it's totally uncontrolled. Sure, you can tell people what they should focus on, but as the points drag on, they'll usually revert to their former habits. The whole point of practice is to control specific aspects of the game context, to work on those things specifically. This is all with the aim of performing Deliberate Practice.
 
