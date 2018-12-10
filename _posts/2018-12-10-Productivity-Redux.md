@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Productivity redux
-tags: default
+title: Productivity Redux
+tags: productivity
 ---
 
 And lo! I have completed my first semester of graduate school! The challenges were plentiful, and all that stuff I thought about how easy it was going to be because of my time management tools pretty much went out the window as soon as the trivial assignments stopped, which was right away. There is still hope though, because I'm dumb enough to think that I can still improve on my time management techniques.
