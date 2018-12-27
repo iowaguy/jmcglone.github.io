@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interledger
-tags: papers pbts ledgers
+tags: papers
 ---
 
 One of the growing problems in the cryptocurrency space is that that are now hundreds of different ledgers and coins in use. While this is nice in the free-market sense that people have a lot of choice, is also has hidden costs harkening back to the earliest human days of disparate currencies. The problem is: how can monetary transfers happen between two parties that may not have a shared currency. Well for a long time, the answer was to go through trusted intermediaries like banks. For fiat currencies, this still makes sense. One of the major selling points of cryptocurrencies however, is that there doesn't need to be any kind of centralized trust. So relying on a trusted single party for transfers between currencies is effectively as bad as trusting a single party for maintaining the value of those currencies.
